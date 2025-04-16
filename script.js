@@ -10,6 +10,6 @@ function nothing() {
     document.body.style.backgroundImage = "url('unnamed.webp')"
     alert("(*&^%$2_)(<32*&(*^%#$")
 }
-function remove() {
+function changeBgColorblank() {
     document.body.style.backgroundImage = "url('white.jpg')"
 }
