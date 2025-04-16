@@ -1,5 +1,5 @@
 function happy() {
-    document.body.style.backgroundImage = "url('EVA.jpg')";
+    document.body.style.backgroundImage = "url('GreenOnion.webp')";
 }
 
 function sad() {
@@ -7,9 +7,9 @@ function sad() {
 }
 
 function nothing() {
-    document.body.style.backgroundImage = "url('white.jpg')"
+    document.body.style.backgroundImage = "url('unnamed.webp')"
     alert("(*&^%$2_)(<32*&(*^%#$")
 }
 function remove() {
-    document.body.style.backgroundImage = "url('EVA.jpg')"
+    document.body.style.backgroundImage = "url('white.jpg')"
 }
